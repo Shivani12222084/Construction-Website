@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>SSS Construction Company Website</title>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <meta content="Construction Company Website Template" name="keywords">
+        <meta content="Construction Company Website Template" name="description">
+
+        <!-- Favicon -->
+        <link href="img/favicon.ico" rel="icon">
+
+        <!-- CSS Libraries -->
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+        <link href="lib/flaticon/font/flaticon.css" rel="stylesheet"> 
+        <link href="lib/animate/animate.min.css" rel="stylesheet">
+        <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+        <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+        <link href="lib/slick/slick.css" rel="stylesheet">
+        <link href="lib/slick/slick-theme.css" rel="stylesheet">
+
+        <!-- Stylesheet -->
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+
+    
+            
+           
+                            <body>
+                                <div class="wrapper">
+                                    <!-- Top Bar Start -->
+                                    <div class="top-bar">
+                                        <div class="container-fluid">
+                                            <div class="row align-items-center">
+                                                <div class="col-lg-4 col-md-12">
+                                                    <div class="logo">
+                                                        <a href="index.html">
+                                                            <h2>SSS </h2>
+                                                            <h5>Construction</h5>
+                                                            <!-- <img src="img/logo.jpg" alt="Logo"> -->
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-8 col-md-7 d-none d-lg-block">
+                                                    <div class="row">
+                                                        <div class="col-4">
+                                                            <div class="top-bar-item">
+                                                                <div class="top-bar-icon">
+                                                                    <i class="flaticon-address"></i>
+                                                                </div>
+                                                                <div class="top-bar-text">
+                                                                    <h3>Location</h3>
+                                                                    <p>Jalandhar - Delhi, Grand Trunk Rd, Phagwara, Punjab 144001
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-4">
+                                                            <div class="top-bar-item">
+                                                                <div class="top-bar-icon">
+                                                                    <i class="flaticon-call"></i>
+                                                                </div>
+                                                                <div class="top-bar-text">
+                                                                    <h3>Call Us</h3>
+                                                                    <p>+917654699030</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-4">
+                                                            <div class="top-bar-item">
+                                                                <div class="top-bar-icon">
+                                                                    <i class="flaticon-send-mail"></i>
+                                                                </div>
+                                                                <div class="top-bar-text">
+                                                                    <h3>Email Us</h3>
+                                                                    <p>ssekhar9062@gmail.com</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Top Bar End -->
+                        
+                                    <!-- Nav Bar Start -->
+                                    <div class="nav-bar">
+                                        <div class="container-fluid">
+                                            <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
+                                                <a href="#" class="navbar-brand">MENU</a>
+                                                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                                                    <span class="navbar-toggler-icon"></span>
+                                                </button>
+                        
+                                                <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
+                                                    <div class="navbar-nav mr-auto">
+                                                        <a href="index.html" class="nav-item nav-link ">Home</a>
+                                                        <a href="about.html" class="nav-item nav-link">About</a>
+                                                        <a href="service.html" class="nav-item nav-link">our business</a>
+                                                        <a href="portfolio.html" class="nav-item nav-link">Project</a>
+                                                        <a href="team.html" class="nav-item nav-link ">media</a>
+                                                        
+                                                        <div class="nav-item dropdown">
+                                                        <a href="blog.html" class="dropdown-item active">career</a>
+                                                           </div>
+                                                        
+                                                        <a href="contact.html" class="nav-item nav-link">Contact</a>
+                                                    </div>
+                                                    
+                                                </div>
+                                            </nav>
+                                        </div>
+                                    </div>
+                                    <!-- Nav Bar End -->  
+                                              <!-- Page Header Start -->
+            <div class="page-header">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <h2>Our Blog</h2>
+                                       </div>
+                        <div class="col-12">
+                            <a href="">Home</a>
+                            <a href="">Our Blog</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Page Header End -->
+
+
+            <!-- Blog Start -->
+            <div class="blog">
+                <div class="container">
+                    <div class="section-header text-center">
+                        <p>Latest Blog</p>
+                        <h2>Latest From Our Blog</h2>
+                    </div>
+                    <div class="row blog-page">
+                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                            <div class="blog-item">
+                                <div class="blog-img">
+                                    <img src="img/cards1_career.png" alt="Image">
+                                </div>
+                                <div class="blog-title">
+                                    <h3>NEW GRADS</h3>
+                                    <a class="btn" href="">+</a>
+                                </div>
+                                <div class="blog-meta">
+                                    
+                                </div>
+                                <div class="blog-text">
+                                    <p>
+                                        Your career begins now.Together,we'll get you where you want to go.you'll manage projects;solve the toughest construction challenges;Not your typical day at the office.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 wow fadeInUp">
+                            <div class="blog-item">
+                                <div class="blog-img">
+                                    <img src="img/cards2_career.png" alt="Image">
+                                </div>
+                                <div class="blog-title">
+                                    <h3>EXERIENCED PROFESSIONALS</h3>
+                                    <a class="btn" href="">+</a>
+                                </div>
+                                <div class="blog-meta">
+                                    
+                                </div>
+                                <div class="blog-text">
+                                    <p>
+                                        Experinced managers,directors and construction team leaders aree crucial to our success in delivering an exceptional experince for clients.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                            <div class="blog-item">
+                                <div class="blog-img">
+                                    <img src="img/cards3_career.png" alt="Image">
+                                </div>
+                                <div class="blog-title">
+                                    <h3>CRAFT PROFESSIONALS</h3>
+                                    <a class="btn" href="">+</a>
+                                </div>
+                                <div class="blog-meta">
+                                    
+                                </div>
+                                <div class="blog-text">
+                                    <p>
+                                        Our legacy of excellence rests upon having the best craft professional on our team. If so, we want to hear from you.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                            <div class="blog-item">
+                                <div class="blog-img">
+                                    <img src="img/cards5_career.png" alt="Image">
+                                </div>
+                                <div class="blog-title">
+                                    <h3>INTERNS</h3>
+                                    <a class="btn" href="">+</a>
+                                </div>
+                                <div class="blog-meta">
+                                    
+                                </div>
+                                <div class="blog-text">
+                                    <p>
+                                       Do you want to learn from the best in the busniess,real experince,real results.That's what you'll get through our Intern AdvantageSM program
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 wow fadeInUp">
+                            <div class="blog-item">
+                                <div class="blog-img">
+                                    <img src="img/career.jfif" alt="Image">
+                                </div>
+                                <div class="blog-title">
+                                    <h3>WORKERS</h3>
+                                    <a class="btn" href="">+</a>
+                                </div>
+                                <div class="blog-meta">
+                                    
+                                </div>
+                                <div class="blog-text">
+                                    <p>
+                                        
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                            <div class="blog-item">
+                                <div class="blog-img">
+                                    <img src="img/cards_career.png" alt="Image">
+                                </div>
+                                <div class="blog-title">
+                                    <h3>CIVIL Engineer</h3>
+                                    <a class="btn" href="">+</a>
+                                </div>
+                                <div class="blog-meta">
+                                    
+                                </div>
+                                <div class="blog-text">
+                                    <p>
+                                        
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+            <!-- Blog End -->   
+    </body>
+</html>
